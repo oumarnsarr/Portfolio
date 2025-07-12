@@ -1,0 +1,99 @@
+{
+  "name": "Oumar Sarr",
+  "location": "Atlanta, GA 30338",
+  "phone": "4045931832",
+  "email": "oumar.nsarr@gmail.com",
+  "linkedin": "https://linkedin.com/in/oumarnsarr",
+  "summary": "Software developer with expertise in Java, object-oriented programming, and full-stack web development. Completing Amazon Junior Software Developer Professional Certificate on Coursera. Holds a Diploma of College Studies in Computer Science from Collège LaSalle, Montréal. Experience in technical customer service at Service Canada, enhancing communication, analytical thinking, and problem-solving skills.",
+  "skills": [
+    "Customer service",
+    "Information management",
+    "Data analysis",
+    "Database management",
+    "Problem solving",
+    "Attention to detail",
+    "Team collaboration",
+    "Research skills",
+    "Process improvement",
+    "Java programming",
+    "Proficient in Java",
+    "Data structures",
+    "Adaptability and learning",
+    "Back-end development",
+    "Code optimization",
+    "RESTful APIs",
+    "Web development"
+  ],
+  "experience": [
+    {
+      "title": "Information Officer",
+      "company": "Service Canada",
+      "location": "Montreal, Quebec, Canada",
+      "start_date": "04/2022",
+      "end_date": "01/2024",
+      "description": "Responded to customer inquiries by phone, provided accurate and up-to-date information about government programs and services, assisted customers in navigating the application process, directed customers to appropriate resources, kept records of customer interactions, and stayed informed about changes in government policies and procedures."
+    },
+    {
+      "title": "Customer Service Representative",
+      "company": "Metro Supply Chain",
+      "location": "Boucherville, Quebec, Canada",
+      "start_date": "09/2019",
+      "end_date": "03/2021",
+      "description": "Responded to customer inquiries through various channels, provided accurate information on product availability and delivery times, resolved customer issues, collaborated with internal teams, and maintained records of customer interactions."
+    },
+    {
+      "title": "Inventory Clerk",
+      "company": "TRU Simulation",
+      "location": "Montreal, Quebec, Canada",
+      "start_date": "05/2016",
+      "end_date": "08/2016",
+      "description": "Received and verified incoming stock, recorded inventory data, participated in inventory audits, coordinated with shipping and receiving teams, and maintained a clean and organized inventory area."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Project One",
+      "description": "A brief description of Project One.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "liveDemo": "https://example.com/project-one",
+      "repository": "https://github.com/username/project-one"
+    },
+    {
+      "title": "Project Two",
+      "description": "A brief description of Project Two.",
+      "technologies": ["React", "Node.js"],
+      "liveDemo": "https://example.com/project-two",
+      "repository": "https://github.com/username/project-two"
+    },
+    {
+      "title": "Project Three",
+      "description": "A brief description of Project Three.",
+      "technologies": ["Python", "Flask"],
+      "liveDemo": "https://example.com/project-three",
+      "repository": "https://github.com/username/project-three"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Diploma of College Studies",
+      "field": "Computer Science",
+      "date": "05/2024",
+      "institution": "Collège LaSalle",
+      "location": "Montréal"
+    },
+    {
+      "degree": "High School Diploma",
+      "date": "06/2016",
+      "institution": "École Secondaire Honoré-Mercier",
+      "location": "Montréal, QC"
+    },
+    {
+      "certificate": "Computer Science",
+      "platform": "Coursera",
+      "location": "Online"
+    }
+  ],
+  "certifications": [
+    "Amazon Junior Software Developer Professional Certificate on Coursera"
+  ]
+}
